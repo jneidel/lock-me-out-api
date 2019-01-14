@@ -29,7 +29,7 @@ $ npm install lock-me-out-api
 
 ## Example
 
-For usage example see [jneidel/lock-me-out-cli/lib/commands.js](https://github.com/jneidel/lock-me-out-cli/lib/commands.js).
+For usage example see [jneidel/lock-me-out-cli/lib/commands.js](https://github.com/jneidel/lock-me-out-cli/blob/master/lib/commands.js).
 
 ## Test
 
