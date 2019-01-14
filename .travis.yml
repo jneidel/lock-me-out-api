@@ -1,10 +1,10 @@
 language: node_js
 node_js:
-  - "9"
-  - "8"
+  - "node"
+  - "lts/*"
 notifications:
   email:
     recipients:
-      - github@jneidel.com
+      - git@jneidel.com
     on_success: never
     on_failure: always
