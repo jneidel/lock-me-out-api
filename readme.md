@@ -16,7 +16,6 @@ Shared api for my lock-me-out modules/apps. See:
 This api handles:
 
 - gpg encryption/decryption
-- date/time calculations
 - config/data file management
 
 ## Install
