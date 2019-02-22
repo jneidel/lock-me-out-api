@@ -1,7 +1,6 @@
 module.exports = {
-  gpg     : require( "./lib/gpg" ),
-  settings: require( "./lib/settings" ),
-  datetime: require( "./lib/datetime" ),
-  fs      : require( "./lib/fs" ),
+  gpg   : require( "./lib/gpg" ),
+  config: require( "./lib/config" ),
+  fs    : require( "./lib/fs" ),
 };
 
