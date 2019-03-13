@@ -36,6 +36,11 @@ For usage example see [jneidel/lock-me-out-cli/lib/commands.js](https://github.c
 $ npm run test
 ```
 
+## Related
+
+- [jneidel/lock-me-out](https://github.com/jneidel/lock-me-out): Webapp of this module
+- [jneidel/lock-me-out-cli](https://github.com/jneidel/lock-me-out-cli): CLI of this module
+
 ## License
 
 MIT © [Jonathan Neidel](https://jneidel.com)
