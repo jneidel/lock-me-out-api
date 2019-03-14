@@ -10,7 +10,6 @@
     "url": "https://jneidel.com"
   },
   "scripts": {
-    "test": "ava",
     "testing": "ava -w",
     "unit": "ava -w --match='*[unit]*'"
   },
